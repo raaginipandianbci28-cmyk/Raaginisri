@@ -1,0 +1,4 @@
+# Update your code below this line
+string = 'tenent'
+result = string
+print(result)
