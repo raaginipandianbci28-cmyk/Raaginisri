@@ -1,0 +1,7 @@
+# cook your dish here
+a=-50
+b=40
+c=a+b
+d=a*b
+prit(c)
+print(d)
