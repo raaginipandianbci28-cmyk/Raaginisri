@@ -1,0 +1,4 @@
+# Update your code below this line
+string = 'tenet'
+result = string
+print(result)
